@@ -1,0 +1,66 @@
+# 🔹 Загальні .NET/Visual Studio файли
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*.dbmdl
+*.pdb
+*.mdb
+*.ilk
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# 🔹 Visual Studio специфічні
+.vs/
+*.vcxproj.user
+*.csproj.user
+*.fsproj.user
+
+# 🔹 C++/CLI збірка
+*.exe
+*.dll
+*.lib
+*.exp
+*.bsc
+
+# 🔹 F# специфічні
+*.fsx.lock
+*.fsproj.user
+
+# 🔹 NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# 🔹 IDE та OS тимчасові файли
+*.DS_Store
+*.Thumbs.db
+*.tmp
+*.bak
+
+# 🔹 Rider / JetBrains
+.idea/
+*.iml
+
+# 🔹 Logs
+*.log
+
+# 🔹 Тестові результати
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# 🔹 Папки для кешу
+_ReSharper*/

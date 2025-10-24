@@ -1,0 +1,6 @@
+C:\Users\vital\source\repos\ComputerStoreNet9\x64\Debug\Ijwhost.dll
+C:\Users\vital\source\repos\ComputerStoreNet9\x64\Debug\StoreLogicNet.deps.json
+C:\Users\vital\source\repos\ComputerStoreNet9\x64\Debug\StoreLogicNet.runtimeconfig.json
+C:\Users\vital\source\repos\ComputerStoreNet9\StoreLogicNet\x64\Debug\StoreLogicNet.vcxproj.AssemblyReference.cache
+C:\Users\vital\source\repos\ComputerStoreNet9\StoreLogicNet\x64\Debug\StoreLog.9E2A6E23.Up2Date
+C:\Users\vital\source\repos\ComputerStoreNet9\StoreLogicNet\x64\Debug\StoreLogicNet.genruntimeconfig.cache
