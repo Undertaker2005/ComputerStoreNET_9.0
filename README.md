@@ -5,7 +5,7 @@
 ---
 
 ## 📦 Архітектура
-## F# (StoreAI) → C++/CLI (StoreLogicNet) → C# WinForms (ComputerStoreNet9)
+F# (StoreAI) → C++/CLI (StoreLogicNet) → C# WinForms (ComputerStoreNet9)
 
 ---
 
